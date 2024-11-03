@@ -11,6 +11,9 @@ this is _italic_
 1. the display changes it to the rigth numeric order
 
 
+make link:
+[course](https://github.com/szabgab/wis-python-course-2024-04)
+
 ![](address of image)
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2F3DROD%2Fstatus%2F1106981035861073920&psig=AOvVaw2s7eXsg43tgn47w8ptaIPu&ust=1730710023695000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjwkrjjv4kDFQAAAAAdAAAAABAJ)
 
