@@ -20,4 +20,4 @@ make link:
 you can also insert an image from the computer (so its not dependant on the internet? is the link is changed?):
 add file_uplode files_
 ![](link of file we uploaded into the github)
-![](Screenshot 2024-08-14 164116.png)
+![](Screenshot 2024-07-24 123100.png)
