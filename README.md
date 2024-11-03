@@ -15,6 +15,7 @@ make link:
 [course](https://github.com/szabgab/wis-python-course-2024-04)
 
 ![](address of image)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Cassini_team_Abbey_road.jpg)
 
 you can also insert an image from the computer (so its not dependant on the internet? is the link is changed?):
